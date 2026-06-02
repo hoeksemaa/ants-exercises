@@ -22,3 +22,9 @@ dist/
 
 # macOS
 .DS_Store
+
+# generated script outputs
+*-output.*
+
+# book sample assets — don't redistribute Cohen's bundled image in a public repo
+ch4/amsterdam.png
